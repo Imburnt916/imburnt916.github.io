@@ -4,7 +4,7 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	background-image: url('https://photos-1.dropbox.com/t/2/AAAe_iK6_n8GkxFgRlh3L9gxPEQKlhyrEv5a7zrmmeGY4w/12/277278382/png/32x32/1/_/1/2/footer_lodyas.png/EJfE84gCGPEIIAIoAg/4dZDXyKjTM3NPOzVkufaZ4CiBpLmOxNgDfkjG96w0Rk?dl=0&size=2048x1536&size_mode=3');
+	background-image: url('/img/footer_lodyas.png');
 	background-position: center top;
 	background-size: cover;
 }
